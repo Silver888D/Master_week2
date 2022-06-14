@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:900');
+
+*{box-sizing: border-box;}
+
+.box{color: white; font-size: 100px; font-family: 'Montserrat Alternates',sans-serif; text-align:center; padding:15px; min-height: 200px; margin: 10px;}
+
+.box1{background: rgb(6, 105, 9);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ; align-self: flex-start; flex-basis: 300px;}
+.box2{background: rgb(231, 23, 23);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box3{background: rgb(20, 184, 45);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box4{background: rgb(30, 38, 145);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box5{background: rgb(119, 10, 101);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box6{background: rgb(79, 78, 78);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box7{background: rgb(178, 205, 23);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box8{background: rgb(224, 134, 197);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box9{background: rgb(22, 147, 135);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-start;flex-basis: 300px;}
+.box10{background: rgb(104, 43, 43);box-shadow: 2px 2px 3px rgba(38, 39, 39, 0.8) ;align-self: flex-end;flex-basis: 300px;}
+
+.container{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap;align-content: space-around;}
+.container2{display: flex;max-height: fit-content;flex-direction: col;justify-content: space-around;flex-wrap: wrap; align-content: space-around;}
